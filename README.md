@@ -6,3 +6,16 @@ April | Week 4 (20–22 Apr) | Revamp of framework with generalized controls and
 April | Week 4 (21 Apr) | Development of contingency methodologies (control failure & recovery) | Completed | Designed contingency and recovery logic for control failures
 April | Week 4 (22 Apr) | Case study identification and evaluation (initial phase) | Completed | Started gathering relevant platform‑based case studies
 May | Week 1 (05–07 May) | Case study collection and evaluation (detailed analysis) | Completed | Evaluated multiple GRC platform case studies for alignment with CCM 
+
+/////////////////////////////////////////////////////////////////////
+
+Month | Week   | Task                                                         | Status     | Remarks
+April | Week 3 | Formulation of Agentic AI POC plan and architecture          | Completed  | Successfully defined workflow and finalized architecture approach for the POC
+April | Week 3 | Exploration of solution approaches for Agentic AI           | Completed  | Identified and established a feasible working solution for implementation
+April | Week 4 | Platform compatibility analysis and solution validation     | Completed  | Completed compatibility checks across platforms for POC feasibility
+April | Week 4 | Implementation planning for auto-population capability      | Completed  | Designed and initiated auto-population mechanism for dependent fields
+April | Week 4 | Refinement of platform compatibility and automation logic  | Completed  | Enhanced and stabilized auto-population logic across scenarios
+April | Week 4 | Continued development of auto-population features           | Completed  | Strengthened automation logic ensuring consistent data field population
+May   | Week 1 | Advanced auto-population development and testing            | Completed  | Achieved stable auto-population behavior for the POC use case
+May   | Week 2 | Preparation of Agentic AI POC presentation                  | Completed  | Compiled presentation showcasing solution architecture and outcomes
+May   | Week 2 | Final refinement and optimization of auto-population logic | Completed  | Completed optimization ensuring reliable and consistent automation

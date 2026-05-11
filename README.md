@@ -19,3 +19,33 @@ April | Week 4 | Continued development of auto-population features           | C
 May   | Week 1 | Advanced auto-population development and testing            | Completed  | Achieved stable auto-population behavior for the POC use case
 May   | Week 2 | Preparation of Agentic AI POC presentation                  | Completed  | Compiled presentation showcasing solution architecture and outcomes
 May   | Week 2 | Final refinement and optimization of auto-population logic | Completed  | Completed optimization ensuring reliable and consistent automation
+
+
+
+Title:
+Agentic AI POC for Automated Demand Data Capture and Auto-Population
+Objective:
+To design and implement an AI-driven chatbot using Gemini 2.5 Flash for intelligent capture and auto-population of demand creation fields based on dependency logic
+Business / Technology Scope of the Project:
+Developing an Agentic AI solution for FMCG demand workflows enabling automated data capture, dependency-based field population, and enhanced process efficiency through LLM integration
+New Development / Enhancement / Modification:
+New Development — End-to-end implementation of an AI-powered chatbot with auto-population capabilities using Gemini model and workflow automation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

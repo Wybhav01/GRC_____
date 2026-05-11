@@ -31,6 +31,41 @@ Developing an Agentic AI solution for FMCG demand workflows enabling automated d
 New Development / Enhancement / Modification:
 New Development — End-to-end implementation of an AI-powered chatbot with auto-population capabilities using Gemini model and workflow automation
 
+///////////////////////////////////////////////////////////////////////////////
+
+a) Methodology
+
+Conducted structured assessment of existing GRC monitoring mechanisms to identify gaps in control effectiveness and integration.
+Designed a risk‑based CCM framework aligned to SOC, ITGC, ICFR, and BCP/DR control objectives.
+Integrated evaluation metrics and success KPIs to enable continuous monitoring and measurable outcomes.
+Validated the framework through platform benchmarking and real‑world case study analysis.
+
+
+b) Technology / Strategy Adopted
+
+Adopted a continuous monitoring approach replacing periodic audit‑driven control validation with real‑time control assurance. [Evaluation...Platforms | PowerPoint]
+Implemented a GRC platform‑centric strategy to act as a single source of truth for risks, controls, and monitoring outputs. [Evaluation...Platforms | PowerPoint]
+Leveraged risk‑based prioritization focusing on high‑impact, high‑frequency, and regulatory‑critical controls. [Evaluation...Platforms | PowerPoint]
+Enabled a technology‑driven governance model supporting automation, data integration, and AI‑ready monitoring capabilities.
+c) Tools Used
+
+ServiceNow
+SAP GRC
+MetricStream
+RSA Archer
+LogicGate
+AuditBoard
+Navex
+Diligent
+
+(Directly aligned to Enterprise Platform Ecosystem and Benchmarking slides) [Evaluation...Platforms | PowerPoint]
+
+✅ 2. Additional Observations
+
+Current GRC environments remain largely manual, siloed, and audit‑centric, limiting real‑time risk visibility and control effectiveness monitoring. [Evaluation...Platforms | PowerPoint]
+Continuous Control Monitoring significantly improves risk detection speed, remediation efficiency, and governance transparency across complex environments. [Evaluation...Platforms | PowerPoint]
+APAC presents strong growth potential, requiring scalable, regulation‑agnostic frameworks supported by integrated GRC platforms
+
 
 
 
